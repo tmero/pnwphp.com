@@ -23,7 +23,7 @@
                             Early Bird Tickets are now available.<br>
                             <strong>Get your tickets today!</strong>
                         </p>
-                        <a class="btn-reverse" href="https://www.eventbrite.com/e/pacific-northwest-php-conference-2017-tickets-34673958744">Buy Tickets</a>
+                        <a class="btn-reverse" href="https://www.eventbrite.com/e/pacific-northwest-php-conference-2017-pnwphp-tickets-36005273743">Buy Tickets</a>
                     </div>
                 </div>
             </div>
